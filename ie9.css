@@ -1,0 +1,29 @@
+.repValue {
+  bottom: 0.5em;
+  top: -0.5em; }
+  .repValue:before {
+    font-size: 1em;
+    bottom: -1em; }
+
+html body .mainpart h2 .buttonsline {
+  top: -2px !important; }
+html .previewPopupContainer.advancedSearch {
+  background: none !important;
+  position: relative !important; }
+
+.bbedit-smileybar {
+  margin-bottom: 4px;
+  top: inherit !important;
+  margin-left: 0 !important;
+  margin-top: -6px !important;
+  width: 534px !important;
+  position: inherit !important; }
+
+.goodFake .ireport {
+  margin-left: -2px; }
+
+.previewPopupContainer.advancedSearch .previewPopupContent p {
+  border-left: 1px solid #cccccc; }
+
+.siteButton.searchButton {
+  margin: 4px 30px 0 10px; }
