@@ -1,0 +1,84 @@
+.repValue {
+  bottom: 0.5em;
+  top: -0.3em; }
+  .repValue:before {
+    font-size: 2em; }
+
+h2 .repValue:before {
+  font-size: 1.4em;
+  bottom: -12px; }
+
+.rate.rated {
+  position: relative;
+  z-index: 10; }
+
+.feedbackButton {
+  background: none;
+  background: url(/images/feedback.png) no-repeat 0 0 !important;
+  height: 119px;
+  width: 25px;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -o-transform: none !important;
+  border: none !important;
+  box-shadow: none !important; }
+  .feedbackButton:hover {
+    background: transparent url(/images/feedback.png) no-repeat -31px bottom !important; }
+  .feedbackButton span {
+    display: none !important;
+    visibility: hidden; }
+
+#desc img {
+  max-width: inherit !important;
+  height: inherit !important; }
+
+.communityLayout .commentbody {
+  width: 100% !important; }
+
+.bbedit-smileybar {
+  margin-bottom: 4px;
+  top: inherit !important;
+  margin-left: 0 !important;
+  margin-top: -6px !important;
+  width: 534px !important;
+  position: inherit !important; }
+
+.commentbody .buttonsline {
+  clear: both !important;
+  overflow: auto !important;
+  zoom: 1 !important;
+  display: block !important; }
+
+.torrentDownloaded {
+  filter: alpha(opacity=60); }
+
+.icon16 {
+  margin-right: 2px; }
+
+.goodFake {
+  width: 148px; }
+
+.sliderbox ul {
+  zoom: 1; }
+
+button.bigButton, button.smallButton {
+  overflow: visible; }
+
+.commentbody {
+  width: 630px !important; }
+
+.commentThread .commentbody {
+  width: inherit !important; }
+
+.menuValue {
+  line-height: 100%; }
+
+.search input {
+  line-height: 24px; }
+
+#previewPopupContent {
+  border: 1px solid #594c2d !important;
+  border-top: none !important; }
